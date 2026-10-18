@@ -1,4 +1,4 @@
 V67
-Test1
-Test2
-Test3
+Auto Pickup is out
+Testificate is out
+Auto Truck is fixed
