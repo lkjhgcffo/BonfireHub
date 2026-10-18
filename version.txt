@@ -1,4 +1,1 @@
-V67
-Auto Pickup is out
-Testificate is out
-Auto Truck is fixed
+V1
