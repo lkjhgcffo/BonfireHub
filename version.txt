@@ -1,9 +1,1 @@
-V1.1
-New: Roadster Jump and Wall Drive (Vehicle)
-New: Auto Flip speed settings, x on keybinds removes the key
-New: Trucker can take contracts for you
-Infinite Stamina reworked: run for a second and it kicks in
-Jobs list redesigned, crews look calmer
-Closing the hub turns every function off
-Turn Off All no longer overwrites your saved config
-Many fixes: Trucker, Car TP, Streamer Mode, Printer farm, long sessions
+V1
